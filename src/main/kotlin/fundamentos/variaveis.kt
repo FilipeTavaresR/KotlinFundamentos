@@ -5,7 +5,7 @@ fun main() {
     val nomeVal = "Filipe"
 
     nome = "José"
-    nomeVal = "José"
+    //nomeVal = "José"
 
     val idade = 34
     println(idade)
